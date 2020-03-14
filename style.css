@@ -1,5 +1,12 @@
+
 .container {
 	max-width: 1030px;
 	margin: 0 auto;
 	background-color: gray;
 }
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
