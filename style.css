@@ -1,10 +1,32 @@
-body {
+*, body {
 	margin: 0;
 	padding: 0;
  }
 
 .container {
-	max-width: 1030px;
+	max-width: 1024px;
 	margin: 0 auto;
-	background-color: gray;
+	padding: 20px 30px;
+	background-color: rgb(206, 206, 206);
+	min-height: 95vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around ;
+}
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+ul {
+	padding-left: 20px;
+
+}
+.border {
+	height: 5px;
+	background-color:gray;
+	}
+.photo {
+	display: inline-block;
+	
 }
