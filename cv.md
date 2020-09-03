@@ -10,7 +10,7 @@
 
 ## Summary
 
-I have a greate desire to become a front-end developer. I have experience on freelance area.
+I have a great desire to become a front-end developer. I have experience on freelance area.
 
 ---
 
