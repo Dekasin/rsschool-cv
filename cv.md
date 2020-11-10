@@ -3,8 +3,9 @@
 ## Contact Info
 
 * > City: Mogilev
-* > Phone/Viber: [+375(29)7456304](tel:+375297456304)
-* > E-mail: [dekasins@gmail.com](dekasins@gmail.com)
+
+* > Phone/Viber: [+375(29)******](tel:+37529******)
+* > E-mail: [dekasinbat@gmail.com](dekasinbat@gmail.com)
 
 ---
 
